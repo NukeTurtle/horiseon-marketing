@@ -16,8 +16,9 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Mock-Up](#Mock-Up)
 * [Technical Acceptance Criteria: 40%](#Technical-Acceptance-Criteria-40%)
 * [Deployment: 32%](#Deployment-32%)
-* [Application Quality: 15%](#Application Quality-15%)
-* [Repository Quality: 13%](#Repository Quality-13%)
+* [Application Quality: 15%](#Application-Quality-15%)
+* [Repository Quality: 13%](#Repository-Quality-13%)
+* [Badges🏆](#Badges🏆)
 
 ## User Story
 
