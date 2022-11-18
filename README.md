@@ -9,8 +9,6 @@ Web accessibility is an increasingly important consideration for businesses. It 
 Even though accessibility is a broad topic that can include complex requirements, my tech lead has given me a small list of specific criteria to satisfy the project.
 ## Table of Contents
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [User Story](#user-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Mock-Up](#Mock-Up)
