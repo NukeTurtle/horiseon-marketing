@@ -80,7 +80,7 @@ The last section of a good README is a license. This lets other developers know 
 
 ![badmath](https://img.shields.io/github/languages/top/nuketurtle/horiseon-marketing)
 ![badmath](https://img.shields.io/github/repo-size/nuketurtle/horiseon-marketing)
-![badmath](https://img.shields.io/github/commits-since/nuketurtle/horiseon-marketing/939d164)
+![badmath](https://img.shields.io/github/commits-since/nuketurtle/horiseon-marketing/939d164?label=Total%20comits%20since%20first)
 ![badmath](https://img.shields.io/github/last-commit/nuketurtle/horiseon-marketing)
 
 ---
