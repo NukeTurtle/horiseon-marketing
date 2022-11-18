@@ -12,10 +12,10 @@ Even though accessibility is a broad topic that can include complex requirements
 * [User Story](#user-Story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Mock-Up](#Mock-Up)
-* [Technical Acceptance Criteria: 40%](#Technical-Acceptance-Criteria-40%)
-* [Deployment: 32%](#Deployment-32%)
-* [Application Quality: 15%](#Application-Quality-15%)
-* [Repository Quality: 13%](#Repository-Quality-13%)
+* [Technical Acceptance Criteria: 40%](#Technical-Acceptance-Criteria-40)
+* [Deployment: 32%](#Deployment-32)
+* [Application Quality: 15%](#Application-Quality-15)
+* [Repository Quality: 13%](#Repository-Quality-13)
 * [Badges🏆](#Badges🏆)
 
 ## User Story
