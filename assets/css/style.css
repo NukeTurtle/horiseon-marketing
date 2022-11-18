@@ -159,15 +159,8 @@ footer h2 {
 footer h2, footer p {
     color: #646464;
 }
-/* Styling of header for smaller screens */
+/* Styling of header for larger screens */
 @media only screen and (min-width:920px){
-    header {
-        flex-direction: column;
-        text-align: center;
-    }
-    header h1 {
-        width: auto;
-    }
     header nav ul {
         margin: auto;
         display: inline-flex;
@@ -176,6 +169,12 @@ footer h2, footer p {
 }
 /* Styling of content for smaller screens */
 @media only screen and (max-width:1080px){
+    header {
+        flex-direction: column;
+    }
+    header nav ul {
+        text-align: center;
+    }
     #content div {
         height: auto;
     }
@@ -211,16 +210,5 @@ footer h2, footer p {
         width: 50%;
         text-align: center;
         margin: auto;
-    }
-}
-/* Styling of header for mobile devices */
-@media only screen and (max-width:700px){
-    header {
-        flex-direction: column;
-        text-align: center;
-        align-items: center;
-    }
-    header nav ul {
-        text-align: center;
     }
 }
