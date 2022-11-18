@@ -16,7 +16,7 @@ Even though accessibility is a broad topic that can include complex requirements
 * [Deployment: 32%](#Deployment-32)
 * [Application Quality: 15%](#Application-Quality-15)
 * [Repository Quality: 13%](#Repository-Quality-13)
-* [Badges🏆](#Badges🏆)
+* [Badges🏆](#Badges)
 
 ## User Story
 
