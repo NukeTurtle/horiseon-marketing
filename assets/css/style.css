@@ -117,7 +117,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-footer h2, footer p {
+footer h4, footer p {
     color: #646464;
 }
 /* Breakpoint of header for larger screens */
